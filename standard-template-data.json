@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-06-15T07:33:54.642080706Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-06-15T07:41:24.845830169Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "33178fe4-d858-463e-be53-95d60143f11f",
     "homepageId": "c747a830-ef6a-4ec5-8559-9bb7365e7ec3"
@@ -1235,11 +1235,28 @@
                 "description": ""
               },
               "essence": {
-                "title": "",
-                "images": [ ],
+                "title": "남이섬 자락 북한강변에 위치한 아름다운펜션 남이섬 리멤버에서는 청정지역 가평의 깨끗함과 호반의 도시 춘천의 잔잔함을 함께 느낄 수 있습니다.",
+                "images": [
+                  {
+                    "id": "4c17c9a6-92a7-4e94-8e13-cde77212c1f2",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c747a830-ef6a-4ec5-8559-9bb7365e7ec3/index_essence/1781509282703-0rjqrn3g2a.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "375b7349-6d86-4138-ab40-0471c09131e6",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c747a830-ef6a-4ec5-8559-9bb7365e7ec3/index_essence/1781509282723-mw5pnko8lb.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "videos": [ ],
                 "mediaType": "image",
-                "description": ""
+                "description": "Beautifully Located Along The Bukhangang River Near Nami Island 🌿"
               },
               "gallery": {
                 "title": "Preview",
@@ -1291,7 +1308,16 @@
               },
               "signature": {
                 "title": "",
-                "images": [ ],
+                "images": [
+                  {
+                    "id": "9b9cb6ea-a226-4082-8e9f-dd1f5b70a16d",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c747a830-ef6a-4ec5-8559-9bb7365e7ec3/index_signature/1781509282728-9r33du3115.jpg",
+                    "sortOrder": 0,
+                    "description": "시원한 야외수영장에서 즐기는 여유로운 물놀이 타임 🌊☀️",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "videos": [ ],
                 "mediaType": "image",
                 "description": ""
