@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.8.0",
-    "generatedAt": "2026-06-15T08:02:22.426560344Z",
+    "version": "1.9.0",
+    "generatedAt": "2026-06-17T08:07:55.851851775Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "33178fe4-d858-463e-be53-95d60143f11f",
     "homepageId": "c747a830-ef6a-4ec5-8559-9bb7365e7ec3"
@@ -1418,7 +1418,148 @@
           ]
         },
         "room": [ ],
-        "facility": [ ],
+        "facility": [
+          {
+            "id": "df9d3e16-1410-4e95-b820-ea97681a9067",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "about": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "experience": {
+                  "features": [ ],
+                  "additionalInfos": [ ],
+                  "benefits": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "768c28aa-8d77-4e96-972a-6cb25b0fa5f0",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "about": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "experience": {
+                  "features": [ ],
+                  "additionalInfos": [ ],
+                  "benefits": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "1d1da752-0d6d-4e21-8e93-6dd6de6306f6",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "about": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "experience": {
+                  "features": [ ],
+                  "additionalInfos": [ ],
+                  "benefits": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "c9cde897-2c84-4325-8c41-9b11855c68c3",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "about": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "experience": {
+                  "features": [ ],
+                  "additionalInfos": [ ],
+                  "benefits": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "3a603de5-890e-4c2a-97c0-fad0103ae66f",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "about": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "experience": {
+                  "features": [ ],
+                  "additionalInfos": [ ],
+                  "benefits": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "b3badec7-b390-4282-af8e-18eaa5bd3772",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "about": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "experience": {
+                  "features": [ ],
+                  "additionalInfos": [ ],
+                  "benefits": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "2ff77e56-ef07-482d-b34c-cdf70a87bde4",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "about": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "experience": {
+                  "features": [ ],
+                  "additionalInfos": [ ],
+                  "benefits": [ ]
+                }
+              }
+            ]
+          }
+        ],
         "reservation": {
           "sections": [
             {
