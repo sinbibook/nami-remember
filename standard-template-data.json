@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.9.0",
-    "generatedAt": "2026-06-17T08:07:55.851851775Z",
+    "version": "1.10.0",
+    "generatedAt": "2026-06-17T08:41:12.347471259Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "33178fe4-d858-463e-be53-95d60143f11f",
     "homepageId": "c747a830-ef6a-4ec5-8559-9bb7365e7ec3"
@@ -1125,7 +1125,7 @@
     ],
     "seo": {
       "title": "춘천 리멤버 펜션",
-      "description": "",
+      "description": "춘천 남이섬과 북한강의 아름다운 자연 속에서 반려견과 함께 여유로운 휴식을 즐기는 리멤버 펜션",
       "keywords": "춘천여행,춘천숙소,남이섬숙소,남이섬여행,춘천펜션"
     },
     "socialLinks": {
@@ -1432,9 +1432,9 @@
                   "images": [ ]
                 },
                 "experience": {
+                  "benefits": [ ],
                   "features": [ ],
-                  "additionalInfos": [ ],
-                  "benefits": [ ]
+                  "additionalInfos": [ ]
                 }
               }
             ]
@@ -1452,9 +1452,9 @@
                   "images": [ ]
                 },
                 "experience": {
+                  "benefits": [ ],
                   "features": [ ],
-                  "additionalInfos": [ ],
-                  "benefits": [ ]
+                  "additionalInfos": [ ]
                 }
               }
             ]
@@ -1472,9 +1472,9 @@
                   "images": [ ]
                 },
                 "experience": {
+                  "benefits": [ ],
                   "features": [ ],
-                  "additionalInfos": [ ],
-                  "benefits": [ ]
+                  "additionalInfos": [ ]
                 }
               }
             ]
@@ -1492,9 +1492,9 @@
                   "images": [ ]
                 },
                 "experience": {
+                  "benefits": [ ],
                   "features": [ ],
-                  "additionalInfos": [ ],
-                  "benefits": [ ]
+                  "additionalInfos": [ ]
                 }
               }
             ]
@@ -1512,9 +1512,9 @@
                   "images": [ ]
                 },
                 "experience": {
+                  "benefits": [ ],
                   "features": [ ],
-                  "additionalInfos": [ ],
-                  "benefits": [ ]
+                  "additionalInfos": [ ]
                 }
               }
             ]
@@ -1532,9 +1532,9 @@
                   "images": [ ]
                 },
                 "experience": {
+                  "benefits": [ ],
                   "features": [ ],
-                  "additionalInfos": [ ],
-                  "benefits": [ ]
+                  "additionalInfos": [ ]
                 }
               }
             ]
@@ -1552,9 +1552,9 @@
                   "images": [ ]
                 },
                 "experience": {
+                  "benefits": [ ],
                   "features": [ ],
-                  "additionalInfos": [ ],
-                  "benefits": [ ]
+                  "additionalInfos": [ ]
                 }
               }
             ]
